@@ -1,1 +1,1 @@
-function beatlesPlay
+function theBeatlesPlay()
