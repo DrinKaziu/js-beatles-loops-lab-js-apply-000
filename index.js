@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
     beatleInstArr.push(musicians[i] + ' ' + 'plays ' + instruments[i]);
   }
   
-  return arr;
+  return beatleInstArr;
 }
 
 
